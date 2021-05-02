@@ -1,5 +1,7 @@
 '''
 Code by Yaqub 19/4/2021
+# Copyright (C) Calumino. All rights reserved.
+# Principal author: Yaqub Jonmohamadi (Calumino 2021).
 '''
 from __future__ import division
 import sys
